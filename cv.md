@@ -45,9 +45,9 @@ function pigIt(str){
 
 ***
 
-**My state and goal:**
-
-    I started my programming path by learning Python, later I decided to switch to Front-End Development, as it suits me more as a 'like to paint' person.Before that graduated art school. I can adapt pretty fast and my goal is to work as a Web Developer.
+**My state and goal:**  
+    I started my programming path by learning Python, later I decided to switch to Front-End Development, as it suits me more as a 'like to paint' person.Before that graduated art school.  
+    I haven't worked anywhere yet, but I can adapt pretty fast and my goal is to work as a Web Developer.
 
 Contact information:
 * Phone: +375257049317
