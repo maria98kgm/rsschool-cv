@@ -5,17 +5,20 @@
 ***
 
 **Languages:**
-- English: B1
+- English: B2
 - Russian: Native
 
 **Certificates:**
-- freeCodeCamp(on LinkedIn):
-    - Responsive Web Design Certification
-
-    - JavaScript Data Structures Certification
+- freeCodeCamp:
+    - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/hat_goblin/responsive-web-design)
+    - [JavaScript Data Structures Certification](https://www.freecodecamp.org/certification/hat_goblin/javascript-algorithms-and-data-structures)
 
 **Courses:**
+- freeCodeCamp
 - OpenEDG Python Essentials (Basics, Intermediate)
+ 
+**English level:**
+- Test passed [here](https://training.by/UserProfile#!/Main/?lang=en), at EPAM training center
  
 **Skills:**
 - JavaScript
@@ -47,7 +50,7 @@ function pigIt(str){
 
 **My state and goal:**  
     I started my programming path by learning Python, later I decided to switch to Front-End Development, as it suits me more as a 'like to paint' person.Before that graduated art school.  
-    I haven't worked anywhere yet, but I can adapt pretty fast and my goal is to work as a Web Developer.
+    I haven't worked anywhere yet, but I can adapt pretty fast and my goal is to work as a Front-End Developer.
 
 Contact information:
 * Phone: +375257049317
